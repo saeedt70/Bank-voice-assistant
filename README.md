@@ -1,5 +1,8 @@
 
 # 🏦 AI Voice Banking Assistant
+## 🎥 Local Demo
+
+[📽️ Click here to watch the demo](Record_2025_10_18_22_56_56_694.mp4)
 
 This project is an **AI-powered voice banking assistant** that can interact with users through voice commands.  
 It listens to spoken input, generates intelligent responses using an LLM (Large Language Model), and replies back with **text-to-speech** along with **visual animations** for a better user experience.
